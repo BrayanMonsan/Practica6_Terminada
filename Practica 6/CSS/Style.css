@@ -1,0 +1,18 @@
+body {
+    background-color: #F1EAEA
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    Font-size: 22px;
+}
+div{
+    color: #000000;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: #8b07a5;
+    border-radius: 15xp;
+    border: solid 2px #000000;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #1200b8;
+}
